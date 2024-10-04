@@ -115449,8 +115449,8 @@ B.l.H(m,l.ghV(l).hZ(0,new A.aIK(q,o),t.cG))
 return A.bQ(A.a([B.aGZ,B.bW,A.es(A.lx(B.cH,m,B.D,B.cy,s),1),B.aGY],n),B.R,B.P,B.N,s)},
 $S:679}
 A.aIK.prototype={
-$1(a){var s,r=null,q="Supervisor",p=a.a,o=this.a,n=o.r>=p&&J.d(o.a.c[p],q)?B.a0:B.jq,m=o.r>=p,l=m?7.5:3.75,k=m?15:7.5
-m=m?15:7.5
+$1(a){var s,r=null,q="Supervisor",p=a.a,o=this.a,n=o.r>=p&&J.d(o.a.c[p],q)?B.a0:B.jq,m=o.r>=p,l=m?12:3.75,k=m?15:12
+m=m?15:12
 s=J.d(o.a.c[p],q)?B.VE:r
 return A.ow(r,A.mh(r,A.bx(A.a([A.aTj(new A.Ib(A.af(r,r,B.D,r,r,new A.b3(!J.d(o.a.c[p],q)&&!(o.r>=p)?B.a0:B.jq,r,r,r,r,s,r,B.jf),r,m,r,r,r,r,k),l,n,3,!0,r),a.b)],t.p),B.R,B.P,B.N),B.aD,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.aIJ(o,p),r,r,r,r,r,r),r,r,p*this.b,r,22.5,r)},
 $S:680}
